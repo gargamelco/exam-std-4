@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 @import url("fontawesome-4.6.3.min.css");
 @import url("framework.css");
 
@@ -417,3 +417,33 @@ table a, #comments a{background-color:inherit;}
 .text-justify {
 	text-align: justify;
 }
+
+/* Georgi Dinkov side-bar css */
+#sidebar-first-div {
+    background-image: url('../images/demo/backgrounds/01.png');
+}
+
+#sidebar-first-paragraph {
+    text-align: justify;
+    font-family: Comic Sans MS;
+}
+
+#sidebar-second-paragraph {
+    text-align: justify;
+    font-family: Comic Sans MS;
+    font-style: italic;
+    font-weight: 600;
+}
+
+#sidebar-first-ul {
+    background-color: silver;
+}
+
+#sidebar-second-div {
+    background-color: silver;
+}
+
+#sidebar-second-ul {
+    color: black !important;
+}
+/* Georgi Dinkov side-bar css */
